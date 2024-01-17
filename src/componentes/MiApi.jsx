@@ -64,7 +64,7 @@ export const MiApi = () => {
 
   const handleOrdenChange = (order) => {
     setSortOrder(order);
-    fetchData(); // Recargar datos al cambiar el orden
+    fetchData();
   };
 
   const handleSearch = (term) => {

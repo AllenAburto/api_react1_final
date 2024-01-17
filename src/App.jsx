@@ -3,7 +3,7 @@ import { MiApi } from './componentes/MiApi';
 import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './App.css'; // Importa el archivo CSS
+import './App.css';
 
 function App() {
   return (
